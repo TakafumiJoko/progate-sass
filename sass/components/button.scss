@@ -1,0 +1,20 @@
+.button {
+  display: block;
+  padding: 15px 30px;
+  border-radius: 25px;
+  &--small {
+    font-size: small;
+  }
+  &--bg-color {
+    background-color: white;
+  }
+  &--green {
+    color: turquoise;
+  }
+  &--yellow {
+    color: gold;
+  }
+  &--red {
+    color: tomato;
+  }
+}

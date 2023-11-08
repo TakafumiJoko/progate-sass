@@ -1,0 +1,13 @@
+{
+  "name": "progate-sass",
+  "version": "1.0.0",
+  "description": "Progate Sass",
+  "repository": "https://github.com/TakafumiJoko/progate-sass",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.69.5"
+  },
+  "scripts": {
+    "sass:compile": "sass --watch sass/styles.scss css/styles.css"
+  }
+}

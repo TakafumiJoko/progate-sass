@@ -1,0 +1,13 @@
+.profile {
+  padding: 60px 0;
+  display: flex;
+  justify-content: center;
+  &__image {
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 15px;
+  }
+  &__text {
+    text-align: center;
+  }
+}
